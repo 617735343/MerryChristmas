@@ -1,0 +1,18 @@
+2018年html5圣诞节新款——拓泽工作室使用说明
+
+根目录上传：文字请修改demo.html   index.php
+
+子目录上传：文字请修改demo.html   
+
+子目录网址打开时按此方式http://www.xxx（你的域名）.com/xx（你的路径）/demo.html
+
+音乐及图片都在images文件中
+
+由于调用了别人的特效，开始页面底部广告水印无法去除，不会影响整体效果，请谅解。
+
+修改代码请尽量下载正规软件下载，推荐notepad++
+
+（官方下载地址https://notepad-plus-plus.org/download/v7.6.1.html）
+
+
+2018shengdanjie文件无用，可删除
